@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FFF">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home_id"
+            android:title="Home"
+            android:icon="@drawable/stethoscopemedicaltool"
+            ></item>
+        <item
+            android:title="Valid Inputs"
+            android:id="@+id/valid_input_list_id"
+            android:icon="@drawable/valid_input_list"></item>
+        <item
+            android:title="About"
+            android:id="@+id/about_id"
+            android:icon="@android:drawable/ic_dialog_info"></item>
+        <item
+            android:title="Logout"
+            android:id="@+id/logout_id"
+            android:icon="@android:drawable/ic_lock_power_off"></item>
+        <!--
+        <item
+            android:id="@+id/Log_id"
+            android:title="Log"
+            android:icon="@drawable/stethoscopemedicaltool"
+            ></item>
+
+        <item
+            android:id="@+id/chat_id"
+            android:title="Chat"
+            android:icon="@android:drawable/sym_action_chat"
+            ></item>
+        <item
+            android:id="@+id/settings_id"
+            android:title="Settings"
+            android:icon="@android:drawable/ic_menu_manage"
+            ></item>
+        -->
+    </group>
+<!--
+    <item android:title="extras">
+        <menu>
+            <item
+                android:title="Share"
+                android:id="@+id/share_id"
+                android:icon="@android:drawable/ic_menu_share"></item>
+            <item
+                android:title="Logout"
+                android:id="@+id/logout_id"
+                android:icon="@android:drawable/ic_lock_power_off"></item>
+        </menu>
+    </item>
+-->
+</menu>

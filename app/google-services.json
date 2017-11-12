@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397438632570",
+    "project_id": "healthcare-156400"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397438632570:android:f73205865f9265f2",
+        "android_client_info": {
+          "package_name": "com.example.siddharthgupta.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397438632570-5a44ctod660hkn38d11h9p4ihukgobfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siddharthgupta.healthcare",
+            "certificate_hash": "4D751E6EF2D4000CBBB229195DB683A6E5033482"
+          }
+        },
+        {
+          "client_id": "397438632570-kskfiiu7q0pcnm01gojhikucapa8n3ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAdE6iQ3c8bpj6cyaTa6XWegVozkj_Js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

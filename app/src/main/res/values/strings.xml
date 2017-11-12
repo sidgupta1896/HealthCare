@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="PREF_FILE">HEALTHCARE_PREF_fILE</string>
+    <string name="PROFILE_URL">PROFILE_URL</string>
+    <string name="PROFILE_NAME">PROFILE_NAME</string>
+    <string name="PROFILE_EMAIL">PROFILE_EMAIL</string>
+    <string name="button_undo">undo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
